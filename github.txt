@@ -1,0 +1,12 @@
+/*
+
+Prueba txt
+=============
+
+Author:  Andrei Pizza
+Updated: Abril 2015
+Notes:	Is my first code 
+
+*/
+
+Este es un ejemplo para probar como funciona guthub. 
